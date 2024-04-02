@@ -1,4 +1,4 @@
-#### Hi, I'm David
+## Hi, I'm David
 minha jornada em c++
 
 ![IMAGE](https://github.com/OpomboMORTO/Hi/blob/69e4422b2bc982e2839346b0780283703ed89034/assets/icon.gif)
