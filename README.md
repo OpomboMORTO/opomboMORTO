@@ -20,5 +20,5 @@ criar um jogo simples usando apenas a engine.
 
 ## progresso::Gitub
 
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=OpomboMorto&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="420px" />                                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpomboMorto&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"width="600px")
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=OpomboMorto&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="380px" />                                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpomboMorto&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"width="600px")
   
