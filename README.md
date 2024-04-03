@@ -1,7 +1,7 @@
 ## Hi, I'm David
 minha jornada em c++
 
-![IMAGE](https://github.com/OpomboMORTO/Hi/blob/69e4422b2bc982e2839346b0780283703ed89034/assets/icon.gif)
+![IMAGE](https://github.com/OpomboMORTO/opomboMORTO/blob/5529fb8e92434e1615fb6642cd2d3003461c6cb2/assetes/icon.gif)
 
 
 - 📑 cursando superior em engenharia da computação.
